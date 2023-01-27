@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyframeworkknet": {}
+      },
+      "storage": {
+        "ImageStorage": {}
       }
     }
   }
